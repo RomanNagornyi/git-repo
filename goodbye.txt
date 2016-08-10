@@ -1,0 +1,2 @@
+echo("buy")
+echo("bey")
